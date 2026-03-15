@@ -46,7 +46,7 @@ a.   KVL:
 
 b.  KCL:
 ![img 4](https://github.com/user-attachments/assets/eb506569-3ada-41ac-97d9-721ec98e471d)
-<img width="1920" height="1080" alt="Screenshot 2026-03-09 211009" src="https://github.com/user-attachments/assets/c5be5c14-af1e-4f41-a948-8f8fca3f3b2b" />
+<img width="1920" height="400" alt="Screenshot 2026-03-09 211009" src="https://github.com/user-attachments/assets/c5be5c14-af1e-4f41-a948-8f8fca3f3b2b" />
 
  Calculation:
 
