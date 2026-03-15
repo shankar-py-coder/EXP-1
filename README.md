@@ -51,21 +51,25 @@ b.  KCL:
  Calculation:
 
 a.   KVL:
- ![img 5](https://github.com/user-attachments/assets/b2165e9b-ccd7-4f39-82cd-973b4a4f66bd)
+
+ <img src="https://github.com/user-attachments/assets/b2165e9b-ccd7-4f39-82cd-973b4a4f66bd" height="400" width="700">
 
 
 b.  KCL:
-![img 6d](https://github.com/user-attachments/assets/de488df5-b893-444d-8cd8-8b0d1e245faf)
+
+<img src="https://github.com/user-attachments/assets/de488df5-b893-444d-8cd8-8b0d1e245faf" height="400" width="700">
 
 
 Tabulation:
 
 a.   KVL:
-![WhatsApp Image 2026-03-12 at 11 13 43 AM](https://github.com/user-attachments/assets/6ce3b143-ed4f-472a-b6d7-e2d7a4552173)
+
+<img src="https://github.com/user-attachments/assets/6ce3b143-ed4f-472a-b6d7-e2d7a4552173" height="400" width="700">
  
 
 b.  KCL:
-![WhatsApp Image 2026-03-12 at 11 13 42 AM](https://github.com/user-attachments/assets/80ce1336-6250-4504-9157-506bd2b54a65)
+
+<img src="https://github.com/user-attachments/assets/80ce1336-6250-4504-9157-506bd2b54a65" height="400" width="700">
 
 
 
